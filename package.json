@@ -1,0 +1,27 @@
+{
+  "name": "shoptemplate",
+  "version": "1.0.0",
+  "description": "Shop layout",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/astraall"
+  },
+  "keywords": [
+    "Shop",
+    "created",
+    "with",
+    "bootstrap",
+    "+gulp+sasss"
+  ],  
+  "author": "author",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.17.5",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2"
+  }
+}
